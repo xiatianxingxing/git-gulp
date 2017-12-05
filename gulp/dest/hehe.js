@@ -1,0 +1,1 @@
+function foo(e){return 10+e}function hehe(){return this}foo(10),hehe();

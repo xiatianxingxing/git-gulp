@@ -1,0 +1,3 @@
+复制除node_modules文件
+然后下载
+cnpm install

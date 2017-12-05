@@ -1,0 +1,1 @@
+function foo(o){return 10+o}foo(10);
